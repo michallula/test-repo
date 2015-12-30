@@ -13,7 +13,7 @@ public class TestProjectApplication {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Hello hello hello!";
+        return "Hello Damian!";
     }
 
     public static void main(String[] args) {
